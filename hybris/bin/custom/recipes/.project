@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>config</name>
+	<name>recipes</name>
 	<comment></comment>
 	<projects>
 	</projects>
@@ -12,7 +12,9 @@
 		</buildCommand>
 	</buildSpec>
 	<natures>
+		<nature>org.springframework.ide.eclipse.core.springnature</nature>
 		<nature>org.eclipse.jdt.core.javanature</nature>
+		<nature>net.sourceforge.pmd.eclipse.plugin.pmdNature</nature>
 		<nature>com.hybris.hyeclipse.tsv.hybris</nature>
 	</natures>
 </projectDescription>
